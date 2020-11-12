@@ -10,7 +10,7 @@ Variational Autoencoders differ from regular autoencoders in the fact that they 
 </p>
 <br>
 
-The frames for this images were created using latent interpolation, an example can be seen in the animtion below.
+The frames for this images were created using linear interpolation, an example can be seen in the animtion below.
 
 
 <p align="center">
