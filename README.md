@@ -6,7 +6,7 @@ Variational Autoencoders differ from regular autoencoders in the fact that they 
   <img width="256" height="256" src="https://github.com/Yasaswi124/AnimeVAE/blob/main/visualizations/faces_loop.gif">
 </p>
 <p align="center">
-  <sub> GIF of images reconstructed from latent space interpolation</sub>
+  <sub> GIF of images reconstructed from linear interpolation in latent space</sub>
 </p>
 <br>
 
