@@ -8,6 +8,7 @@ Variational Autoencoders differ from regular autoencoders in the fact that they 
 <p align="center">
   <sub> GIF of images reconstructed from latent space interpolation</sub>
 </p>
-<br><br>
+
 
 The frames for this images were created using latent interpolation, an example can be seen in the animtion below.
+
