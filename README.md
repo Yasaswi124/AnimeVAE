@@ -21,3 +21,20 @@ The frames for this images were created using latent interpolation, an example c
 </p>
 
 In the animation above, the point that moves is a combination of x% of point A and y% of point B. In each frame, the percent of point A decrease and B increases, so the point travels from A to B. By doing this in the latent space to get a new latent encoding and using the decoder, a new image can be generated as a blend of the 2 or more images.
+<br><br>
+
+This can be used to combine multiple images, as seen in the transition grid below.
+
+
+<p align="center">
+  <img width="512" height="512" src="https://github.com/Yasaswi124/AnimeVAE/blob/main/visualizations/transitiongrid.png">
+</p>
+<p align="center">
+  <sub>Corners are images from dataset, remaining images are a blend of the first 4 images.</sub>
+</p>
+
+
+<br><br>
+
+Data from [here](https://www.kaggle.com/soumikrakshit/anime-faces)
+
