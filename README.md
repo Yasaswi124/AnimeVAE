@@ -20,7 +20,7 @@ The frames for this images were created using linear interpolation, an example c
   <sub>Linear Interpolation in 2D space</sub>
 </p>
 
-In the animation above, the point that moves is a combination of x% of point A and y% of point B. In each frame, the percent of point A decrease and B increases, so the point travels from A to B. By doing this in the latent space to get a new latent encoding and using the decoder, a new image can be generated as a blend of the 2 or more images.
+In the animation above, the point that moves is a combination of X% of point A and Y% of point B. In each frame, the percent of point A decrease and B increases, so the point travels from A to B. By doing this in the latent space to get a new latent encoding and using the decoder, a new image can be generated as a blend of the 2 or more images.
 <br><br>
 
 This can be used to combine multiple images, as seen in the transition grid below.
