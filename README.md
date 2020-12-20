@@ -27,7 +27,7 @@ This can be used to combine multiple images, as seen in the transition grid belo
 
 
 <p align="center">
-  <img width="512" height="512" src="https://github.com/Yasaswi124/AnimeVAE/blob/main/visualizations/transitiongrid.png">
+  <img width="512" height="512" src="https://github.com/Yasaswi124/CatsVAE/blob/main/visualizations/grid.png">
 </p>
 <p align="center">
   <sub>Corners are images from dataset, remaining images are a blend of the first 4 images.</sub>
