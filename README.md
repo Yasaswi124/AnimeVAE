@@ -36,5 +36,5 @@ This can be used to combine multiple images, as seen in the transition grid belo
 
 <br><br>
 
-Data from [here](https://www.kaggle.com/soumikrakshit/anime-faces)
+Data from [here](https://www.kaggle.com/spandan2/cats-faces-64x64-for-generative-models)
 
